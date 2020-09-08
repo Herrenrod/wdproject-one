@@ -1,0 +1,7 @@
+# this is just some test
+
+*.exe
+*.exe~
+*.dll
+
+*.test
